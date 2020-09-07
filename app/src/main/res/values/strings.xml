@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Visual Note</string>
+    <string name="enter_note_description">Enter note description</string>
+    <string name="click_for_image_select">Click for image select</string>
+</resources>
